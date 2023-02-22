@@ -1,0 +1,6 @@
+h1{
+    font-family: 'Courier New', Courier, monospace; /*this will change the font of h1 */
+    font-size: 24pt;  /*this style will change the font size of h1 */
+    color: blueviolet; /*this style will change the font color of h1*/
+    border: 1px solid black; /* this style will add black border around the h1 */
+}
